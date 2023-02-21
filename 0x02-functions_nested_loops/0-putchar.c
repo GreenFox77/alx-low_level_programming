@@ -1,4 +1,4 @@
-#include<smdio.h>
+#include"main.h"
 
 /**
  * main - Entry point
